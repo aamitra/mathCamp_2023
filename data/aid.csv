@@ -1,1 +1,110 @@
-
+id,financier,recipient,commitYear,status,intent,flowType,sectorName
+65676,China (People's Republic of),Angola,2017,Completion,Development,Loan,WATER SUPPLY AND SANITATION
+66314,China (People's Republic of),Angola,2017,Completion,Development,Loan,TRANSPORT AND STORAGE
+67496,China (People's Republic of),Angola,2017,Implementation,Development,Loan,"INDUSTRY, MINING, CONSTRUCTION"
+67727,China (People's Republic of),Angola,2017,Completion,Development,Free-standing technical assistance,HEALTH
+72349,China (People's Republic of),Angola,2017,Suspended,Development,Loan,TRANSPORT AND STORAGE
+73559,China (People's Republic of),Angola,2017,Implementation,Development,Loan,WATER SUPPLY AND SANITATION
+59438,China (People's Republic of),Benin,2017,Completion,Development,Free-standing technical assistance,HEALTH
+59738,China (People's Republic of),Benin,2017,Completion,Development,Grant,GOVERNMENT AND CIVIL SOCIETY
+59754,China (People's Republic of),Benin,2017,Completion,Development,Grant,GOVERNMENT AND CIVIL SOCIETY
+58033,China (People's Republic of),Botswana,2017,Implementation,Development,Free-standing technical assistance,HEALTH
+56083,China (People's Republic of),Cabo Verde,2017,Implementation,Development,Grant,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+53116,China (People's Republic of),Cameroon,2017,Completion,Development,Loan,TRANSPORT AND STORAGE
+53396,China (People's Republic of),Cameroon,2017,Completion,Mixed,Export Buyer's Credit,TRANSPORT AND STORAGE
+53477,China (People's Republic of),Cameroon,2017,Implementation,Development,Grant,GOVERNMENT AND CIVIL SOCIETY
+57586,China (People's Republic of),Cameroon,2017,Implementation,Development,Loan,ENERGY
+60021,China (People's Republic of),Cameroon,2017,Completion,Development,Grant,GENERAL ENVIRONMENTAL PROTECTION
+70577,China (People's Republic of),Cameroon,2017,Completion,Representational,Grant,EDUCATION
+70666,China (People's Republic of),Cameroon,2017,Completion,Development,Grant,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+72107,China (People's Republic of),Cameroon,2017,Pipeline: Pledge,Development,Grant,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+56700,China (People's Republic of),Chad,2017,Completion,Development,Free-standing technical assistance,HEALTH
+57806,China (People's Republic of),Congo,2017,Completion,Development,Grant,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+59422,China (People's Republic of),Congo,2017,Completion,Development,Grant,HEALTH
+59473,China (People's Republic of),Congo,2017,Completion,Development,Free-standing technical assistance,HEALTH
+73659,China (People's Republic of),Congo,2017,Pipeline: Commitment,Development,Grant,"INDUSTRY, MINING, CONSTRUCTION"
+71375,China (People's Republic of),Cote d'Ivoire,2017,Completion,Development,Loan,TRANSPORT AND STORAGE
+71377,China (People's Republic of),Cote d'Ivoire,2017,Implementation,Development,Loan,TRANSPORT AND STORAGE
+85370,China (People's Republic of),Cote d'Ivoire,2017,Completion,Development,Grant,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+58856,China (People's Republic of),Democratic Republic of the Congo,2017,Implementation,Development,Grant,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+58928,China (People's Republic of),Democratic Republic of the Congo,2017,Completion,Representational,Grant,EDUCATION
+59522,China (People's Republic of),Democratic Republic of the Congo,2017,Completion,Development,Vague TBD,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+59524,China (People's Republic of),Democratic Republic of the Congo,2017,Implementation,Development,Vague TBD,TRANSPORT AND STORAGE
+59533,China (People's Republic of),Democratic Republic of the Congo,2017,Implementation,Development,Vague TBD,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+59393,China (People's Republic of),Djibouti,2017,Completion,Commercial,Supplier's Credit/Export Seller's Credit,TRADE POLICIES AND REGULATIONS
+85139,China (People's Republic of),Djibouti,2017,Pipeline: Pledge,Mixed,Loan,"INDUSTRY, MINING, CONSTRUCTION"
+57855,China (People's Republic of),Egypt,2017,Completion,Commercial,Loan,ENERGY
+58505,China (People's Republic of),Egypt,2017,Implementation,Development,Grant,"INDUSTRY, MINING, CONSTRUCTION"
+59501,China (People's Republic of),Egypt,2017,Completion,Development,Grant,"INDUSTRY, MINING, CONSTRUCTION"
+62131,China (People's Republic of),Equatorial Guinea,2017,Implementation,Mixed,Export Buyer's Credit,"INDUSTRY, MINING, CONSTRUCTION"
+56080,China (People's Republic of),Eritrea,2017,Completion,Development,Free-standing technical assistance,HEALTH
+48765,China (People's Republic of),Ethiopia,2017,Implementation,Mixed,Export Buyer's Credit,ENERGY
+48766,China (People's Republic of),Ethiopia,2017,Implementation,Mixed,Export Buyer's Credit,TRANSPORT AND STORAGE
+48767,China (People's Republic of),Ethiopia,2017,Completion,Mixed,Export Buyer's Credit,"INDUSTRY, MINING, CONSTRUCTION"
+59050,China (People's Republic of),Ethiopia,2017,Implementation,Development,Loan,TRANSPORT AND STORAGE
+59627,China (People's Republic of),Ethiopia,2017,Implementation,Development,Loan,ENERGY
+59978,China (People's Republic of),Ethiopia,2017,Completion,Development,Grant,HEALTH
+60017,China (People's Republic of),Ethiopia,2017,Completion,Development,Free-standing technical assistance,HEALTH
+60972,China (People's Republic of),Ethiopia,2017,Implementation,Development,Grant,HEALTH
+59855,China (People's Republic of),Gabon,2017,Pipeline: Commitment,Development,Loan,ENERGY
+59964,China (People's Republic of),Gabon,2017,Pipeline: Pledge,Development,Loan,ENERGY
+56668,China (People's Republic of),Gambia,2017,Pipeline: Pledge,Commercial,Loan,TRANSPORT AND STORAGE
+56755,China (People's Republic of),Gambia,2017,Completion,Development,Grant,HEALTH
+57017,China (People's Republic of),Gambia,2017,Completion,Development,Free-standing technical assistance,HEALTH
+60153,China (People's Republic of),Ghana,2017,Completion,Development,Grant,EDUCATION
+72704,China (People's Republic of),Ghana,2017,Completion,Development,Free-standing technical assistance,HEALTH
+64408,China (People's Republic of),Guinea,2017,Pipeline: Pledge,Development,Loan,ENERGY
+64425,China (People's Republic of),Guinea,2017,Implementation,Development,Grant,HEALTH
+64509,China (People's Republic of),Guinea,2017,Completion,Representational,Grant,EDUCATION
+64624,China (People's Republic of),Guinea,2017,Completion,Mixed,Grant,COMMUNICATIONS
+57221,China (People's Republic of),Guinea-Bissau,2017,Implementation,Development,Grant,"AGRICULTURE, FORESTRY, FISHING"
+52927,China (People's Republic of),Kenya,2017,Pipeline: Pledge,Development,Loan,TRANSPORT AND STORAGE
+58153,China (People's Republic of),Kenya,2017,Completion,Development,Loan,TRANSPORT AND STORAGE
+58342,China (People's Republic of),Kenya,2017,Completion,Development,Loan,HEALTH
+58387,China (People's Republic of),Kenya,2017,Implementation,Development,Loan,ENERGY
+58510,China (People's Republic of),Kenya,2017,Implementation,Mixed,Export Buyer's Credit,ENERGY
+58661,China (People's Republic of),Kenya,2017,Implementation,Development,Loan,ENERGY
+58693,China (People's Republic of),Kenya,2017,Implementation,Development,Loan,ENERGY
+58737,China (People's Republic of),Kenya,2017,Implementation,Development,Loan,WATER SUPPLY AND SANITATION
+59867,China (People's Republic of),Kenya,2017,Completion,Development,Grant,COMMUNICATIONS
+69574,China (People's Republic of),Kenya,2017,Completion,Representational,Grant,EDUCATION
+55839,China (People's Republic of),Lesotho,2017,Completion,Development,Free-standing technical assistance,HEALTH
+60024,China (People's Republic of),Madagascar,2017,Completion,Development,Free-standing technical assistance,HEALTH
+72748,China (People's Republic of),Madagascar,2017,Pipeline: Commitment,Development,Grant,HEALTH
+57499,China (People's Republic of),Malawi,2017,Implementation,Development,Vague TBD,TRANSPORT AND STORAGE
+57555,China (People's Republic of),Malawi,2017,Pipeline: Commitment,Development,Loan,TRANSPORT AND STORAGE
+57601,China (People's Republic of),Malawi,2017,Completion,Development,Grant,HEALTH
+58565,China (People's Republic of),Mali,2017,Pipeline: Commitment,Development,Grant,EDUCATION
+59038,China (People's Republic of),Mali,2017,Pipeline: Pledge,Development,Loan,TRANSPORT AND STORAGE
+71990,China (People's Republic of),Mali,2017,Completion,Development,Free-standing technical assistance,HEALTH
+56930,China (People's Republic of),Mauritania,2017,Completion,Development,Grant,HEALTH
+57011,China (People's Republic of),Mauritania,2017,Completion,Development,Grant,HEALTH
+53168,China (People's Republic of),Mozambique,2017,Implementation,Development,Grant,TRANSPORT AND STORAGE
+57644,China (People's Republic of),Mozambique,2017,Pipeline: Pledge,Mixed,Vague TBD,TRANSPORT AND STORAGE
+57652,China (People's Republic of),Mozambique,2017,Implementation,Mixed,Loan,TRANSPORT AND STORAGE
+72895,China (People's Republic of),Mozambique,2017,Completion,Development,Free-standing technical assistance,HEALTH
+58559,China (People's Republic of),Niger,2017,Completion,Development,Free-standing technical assistance,HEALTH
+55420,China (People's Republic of),Sao Tome and Principe,2017,Pipeline: Pledge,Development,Vague TBD,TRANSPORT AND STORAGE
+55544,China (People's Republic of),Sao Tome and Principe,2017,Completion,Development,Free-standing technical assistance,ENERGY
+67516,China (People's Republic of),Sao Tome and Principe,2017,Completion,Development,Free-standing technical assistance,HEALTH
+67518,China (People's Republic of),Sao Tome and Principe,2017,Completion,Development,Free-standing technical assistance,HEALTH
+73448,China (People's Republic of),Senegal,2017,Implementation,Development,Grant,EDUCATION
+55584,China (People's Republic of),Seychelles,2017,Pipeline: Commitment,Development,Grant,EDUCATION
+55589,China (People's Republic of),Seychelles,2017,Pipeline: Commitment,Development,Grant,EDUCATION
+62222,China (People's Republic of),Sierra Leone,2017,Implementation,Mixed,Export Buyer's Credit,TRANSPORT AND STORAGE
+62223,China (People's Republic of),Sierra Leone,2017,Implementation,Mixed,Export Buyer's Credit,TRANSPORT AND STORAGE
+62224,China (People's Republic of),Sierra Leone,2017,Implementation,Mixed,Export Buyer's Credit,TRANSPORT AND STORAGE
+62745,China (People's Republic of),Sierra Leone,2017,Completion,Development,Free-standing technical assistance,HEALTH
+73304,China (People's Republic of),Sierra Leone,2017,Completion,Development,Free-standing technical assistance,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+58385,China (People's Republic of),South Africa,2017,Implementation,Development,Loan,ENERGY
+56680,China (People's Republic of),Sudan,2017,Completion,Development,Free-standing technical assistance,HEALTH
+72406,China (People's Republic of),Togo,2017,Completion,Development,Free-standing technical assistance,HEALTH
+72429,China (People's Republic of),Togo,2017,Completion,Development,Grant,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+56424,China (People's Republic of),Tunisia,2017,Completion,Representational,Grant,EDUCATION
+56474,China (People's Republic of),Tunisia,2017,Implementation,Development,Grant,OTHER SOCIAL INFRASTRUCTURE AND SERVICES
+56669,China (People's Republic of),Tunisia,2017,Completion,Development,Grant,TRADE POLICIES AND REGULATIONS
+57092,China (People's Republic of),Zambia,2017,Implementation,Development,Loan,TRANSPORT AND STORAGE
+57560,China (People's Republic of),Zambia,2017,Completion,Development,Loan,ENERGY
+59154,China (People's Republic of),Zambia,2017,Completion,Representational,Grant,EDUCATION
+62215,China (People's Republic of),Zimbabwe,2017,Completion,Development,Free-standing technical assistance,HEALTH
+62405,China (People's Republic of),Zimbabwe,2017,Implementation,Development,Grant,COMMUNICATIONS
